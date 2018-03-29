@@ -17,7 +17,7 @@
     }
    ],
    "source": [
-    "# 과적합 방지 기법 중 하나인 Dropout 을 사용해봅니다.\n",
+    ,
     "import tensorflow as tf\n",
     "import numpy as np\n",
     "import matplotlib.pyplot as plt\n",
